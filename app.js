@@ -2,7 +2,7 @@ let listaNumerosSorteados = [];
 // <<<<<<< HEAD
 // let numeroLimite = 25;
 // =======
-let numeroLimite = 60;
+let numeroLimite = 1500;
 // >>>>>>> 39ee4a81a0d4f7ffcdf2e2e12fe243367b5cb07e
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
@@ -19,7 +19,7 @@ function exibirMensagemInicial() {
 // <<<<<<< HEAD
 //     exibirTextoNaTela('p', 'Escolha um número entre 1 e 25');
 // =======
-    exibirTextoNaTela('p', 'Escolha um número entre 1 e 60');
+    exibirTextoNaTela('p', 'Escolha um número entre 1 e 1500');
 // >>>>>>> 39ee4a81a0d4f7ffcdf2e2e12fe243367b5cb07e
 }
 
